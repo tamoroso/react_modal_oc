@@ -1,0 +1,10 @@
+{
+  "name": "react_modal_oc",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "demos/*"
+    ]
+  }
+}
