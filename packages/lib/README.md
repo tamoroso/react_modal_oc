@@ -55,9 +55,6 @@ export default App;
 - **show :** Boolean that determines of modal should be display or not ;
 - Any props that can be passed down to a `<div/>` element ;
 
-TODO: Add the link to the deploy
-**Exemple :** Here is a working example [Link to demo deploy].
-
 ---
 
 ## If you want to add new components or modify the library :
@@ -67,4 +64,5 @@ TODO: Add the link to the deploy
 - Edit files according to your goals ;
 - Build the library : `npm run build` ;
 - Test your changes by statrting the react application in local ;
-  **Note :** You can edit this application to test the new features you have developed.
+
+**Note :** You can edit this application to test the new features you have developed.
