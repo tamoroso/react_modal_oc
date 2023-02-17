@@ -1,7 +1,6 @@
 {
-  "name": "@tamoroso/react_modal_oc",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@tamoroso_oc/react_modal_oc",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",

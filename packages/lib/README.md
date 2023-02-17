@@ -15,13 +15,13 @@ This library was built by using [vite](https://vitejs.dev/guide/) build tool in 
 
 ## Installation :
 
-`npm install @tamoroso/react_modal_oc`
+`npm install @tamoroso_oc/react_modal_oc`
 
 ## Usage :
 
 ```javascript
 import { useState } from "react";
-import { Modal } from "@tamoroso/react_modal_oc";
+import { Modal } from "@tamoroso_oc/react_modal_oc";
 import "./App.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faClose, faCheckCircle } from "@fortawesome/free-solid-svg-icons";
