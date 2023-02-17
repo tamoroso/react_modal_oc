@@ -62,7 +62,7 @@ TODO: Add the link to the deploy
 
 ## If you want to add new components or modify the library :
 
-- Clone the repository : `git clone` ;
+- Clone the repository : `git clone https://github.com/tamoroso/react_modal_oc.git` ;
 - Install dependencies : `npm install` ;
 - Edit files according to your goals ;
 - Build the library : `npm run build` ;
